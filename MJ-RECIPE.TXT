@@ -8,3 +8,16 @@ rails db:migrate
 rails generate migration createUsers
 
 
+
+
+
+
+GIT
+
+	git add .
+	git commit -m "Init: add . & commit"
+	git branch -M main
+	git remote add origin git@github.com:MJInen/katalog-projektu-3.git
+	
+	
+	
