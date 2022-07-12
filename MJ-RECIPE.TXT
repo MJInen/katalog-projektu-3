@@ -1,0 +1,10 @@
+
+rails db:create
+
+rails generate model User name:string
+
+rails db:migrate
+
+rails generate migration createUsers
+
+
